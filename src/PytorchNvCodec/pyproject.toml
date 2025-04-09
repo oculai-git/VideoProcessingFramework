@@ -1,5 +1,5 @@
 [build-system]        
 requires = [
   "setuptools>=42",
-  "torch==2.0.0"
+  "torch"
 ]
